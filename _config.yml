@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: EMO-Haiti | Robotique 2020
+title: DreamVenture | Where your artistic event gets ressourcs
 
 # Short description of your site
 description: Toutes les informations concernant le concours national de robotique 2020
@@ -26,9 +26,9 @@ navbar-links:
   
   
  # Ressources:
- #   - Former son equipe: ""
- #  - Inscrire son Equipe: ""
- #   - Se preparer pour le test de prequalifaction: ""
+ #   - Accueil ""
+ #   - Nos services""
+ #   - Portefolio""
  #   - Subir le test de prequalifaction: ""
  #   - Recevoir le kit de robotique: ""
  #   - Se familiariser avec le kit de robotique: ""
@@ -84,7 +84,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "support@emohaiti.com"
+  email: "jfcsearch@gmail.com"
   facebook: emohaiti
   github: emohaiti
   twitter: emohaiti
